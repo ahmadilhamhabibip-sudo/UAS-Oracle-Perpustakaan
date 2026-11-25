@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "sqlcl": {
+      "type": "stdio",
+      "command": "C:\\sqlcl-latest\\sqlcl\\bin\\sql.exe",
+      "args": ["-mcp"]
+    }
+  }
+}
